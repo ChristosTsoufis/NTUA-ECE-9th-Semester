@@ -1,6 +1,6 @@
 # Advanced Topics in Database Systems
 
-### Exercises in Python/SQL, semester project for Advanced Topics in Database Systems course at [ECE](https://www.ece.ntua.gr/en)⚡, [NTUA](https://www.ntua.gr/en)🎓, academic year 2021-2022
+### Programming Project in Python/SQL, for **Advanced Topics in Database Systems** course at [ECE](https://www.ece.ntua.gr/en), [NTUA](https://www.ntua.gr/en), academic year 2021-2022
 
 <img alt="Python" src = "https://img.shields.io/badge/Python-1136AA?style=for-the-badge&logo=python&logoColor=white" height="28"> <img alt="Spark SQL" src = "https://img.shields.io/badge/Spark SQL-important?style=for-the-badge&logo=apachespark&logoColor=white" height="28"> <img alt="Hadoop" src = "https://img.shields.io/badge/Hadoop-blue?style=for-the-badge&logo=apachehadoop&logoColor=black" height="28"> <img alt="Ubuntu Server" src = "https://img.shields.io/badge/Ubuntu Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="28">
 
